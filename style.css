@@ -42,8 +42,8 @@ h2 {
 
 .imgbox {
     /* flex-shrink: 0; */
-    width: 102px;
-    height: 102px;
+    width: 110px;
+    height: 110px;
     border: 2px solid black;
     border-radius: 3px;
     margin: .5px;
